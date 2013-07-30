@@ -1,4 +1,4 @@
 erlang
 ======
 
-erlang learning, initial
+erlang learning, second
