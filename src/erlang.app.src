@@ -1,0 +1,15 @@
+{application,erlang,
+  [
+    { description , "erlang learning" },
+    { vsn , "1" },
+    { registered , [] },
+    { applications , [ kernerl,
+                       stdlib,
+                       crypto,
+                       ranch,
+                       cowboy
+                     ]},
+    { mod , { erlang_app , [] } },
+    { env , [] }
+  ]
+}.
